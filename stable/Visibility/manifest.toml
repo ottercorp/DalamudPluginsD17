@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
-commit = "b0ca0ed4ddb14b4f2a627917f7df4b0ab553b07f"
-owners = ["SheepGoMeh"]
+repository = "https://github.com/wozaiha/VisibilityPlugin.git"
+commit = "3f5a10ccc96e5227d2a7706186474734354ef3fe"
+owners = ["SheepGoMeh","wozaiha"]
 project_path = "Visibility"
-changelog = "Updated to 6.2\nFixed some bugs in language selection and commands."
+changelog = "国服适配."
