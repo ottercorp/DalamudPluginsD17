@@ -1,9 +1,9 @@
 [plugin]
-repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.git"
-commit = "e18119101121a6c5257b049ddb6cdd3a52e4f630"
+repository = "https://github.com/Annullare/ffxiv-characterstatus-refined.git"
+commit = "613a32e296e5cc867225e66384ea4eb9eb548e12"
 owners = [
     "Kouzukii",
-    "zhouhuichen741",
+    "Annullare",
 ]
 project_path = "CharacterPanelRefined"
 changelog = """
