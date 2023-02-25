@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/uiharuayako/XCount.git"
+commit = "114cda61474a061c2c19f0017ae13d533296cc2a"
+owners = [
+    "uiharuayako"
+]
+changelog = "查找周围特定类型/指定id的玩家，用于狩猎估计人数及其他用途"
+version = "0.1.0.0"
