@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "7f74bbd9b7e31d4071816163965e6bc0c97955e0"
+commit = "b940a5960fc50d4c3e1ef178dab2f979b1c879be"
 owners = [
     "LittleNightmare"
 ]
