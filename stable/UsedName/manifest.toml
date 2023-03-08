@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "8309a9c94b69eab4911be29dc8016a3ec6e86955"
+commit = "fbca8cc4f80237066a2b1e81a5731dc1669e7875"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 修复PlayerEntry结构改变，导致网络包失效问题。现在可以正常自动更新数据
+- 使用内存而不是网络包
+- 添加一个简单的管理窗口
+- 修复更改Dalamud目录后，无法读取储存的名字问题
+- 添加一个'修改储存路径'的选项
 """
