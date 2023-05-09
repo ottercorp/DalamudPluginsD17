@@ -38,7 +38,7 @@
 
 ### 提交
 
-- 分叉此存储库，或使用 GitHub 网络编辑器（在存储库中按 `.`，或按现有清单上的 ✏ 图标）
+- Fork 此存储库，或使用 GitHub 网络编辑器（在存储库中按 `.`，或按现有清单上的 ✏ 图标）
 - 在你的 fork 中，制作 `stable/(plugin name)/manifest.toml`（或 `testing/live/(plugin name)/manifest.toml` - 请注意，我们更喜欢新插件进入 `testing/live`， 以便在向更广泛的受众传播之前解决皱纹问题）。 有关更多信息，[参见此处](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md#guide-level-explanation)。
 - 请注意，请确保您的用户名在 `owners` 中，即便您只是将插件进行了国服适配（例如下面的`owners = ["goaaats", "Bluefissure"]`）。
 
@@ -68,3 +68,4 @@
 ---
 
 提交插件时，请考虑我们的 [可接受使用政策](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Acceptable-Use-Policy-(Official-Plugin-Repository)>) 和 [服务条款](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Terms-and-Conditions-of-Use-(XIVLauncher,-Dalamud-&-Official-Plugin-Repository)>)，例如详细说明将插件上传到此存储库时您需要授予我们的权利。
+请查看 [插件收养政策](https://github.com/goatcorp/faq/blob/main/development.md#adoption) 以了解如果您放弃插件会发生什么。 常见问题解答还提供了有关在从其他开发人员接管时如何提交插件的说明。
