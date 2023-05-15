@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/NiGuangOwO/DailyDuty.git"
-commit = "1345e8f931f2035b93d7114ebe6d9b0d05da3cc8"
+commit = "7511047697d05c4183df895d43f17093d530cfdd"
 owners = ["MidoriKami", "NiGuangOwO"]
 project_path = "DailyDuty"
+changelog = "更新至最新版本，修正翻译"
