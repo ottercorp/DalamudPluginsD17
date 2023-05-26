@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/VeroFess/ffxiv-priceinsight-cn.git"
+commit = "e91278e5da62a8c69970fc070b53c9b456f1768b"
+owners = ["Kouzukii","VeroFess"]
+project_path = ""
+changelog = """
+- 汉化可见文本.
+- 将数据源源替换为国内CDN加速的, 可以解决某些地区间断性无法访问的问题
+- 添加了 中国区 相关的兼容代码
+"""
