@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "59d35e23abbe5e8b2424c569fdeb6a605b23284f"
-changelog = "### 2.5.5 (2023-04-18)\n\n\n### Bug Fixes\n\n* opacity not being set during load (a8ff4ba)"
-version = "2.5.5"
+commit = "b6c3ec43bd30bd559492f98f1aa8b5fff6b85255"
+changelog = "## 2.6.0 (2023-08-09)\n\n\n### Features\n\n* update to new DI method (49b8049)\n\n\n### Bug Fixes\n\n* remove old tooltop (df8be64)\n* small performance enhancement when drawing (0ab9e53)"
+version = "2.6.0"
