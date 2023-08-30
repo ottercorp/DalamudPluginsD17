@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/VeroFess/ffxiv-priceinsight-cn.git"
-commit = "68cda34607581743a41d3c03698bdd3ff32204d8"
+commit = "c3ede00ce9ab6e4c2b39f7f8eaa511d2d07b93c4"
 owners = ["Kouzukii","VeroFess"]
 project_path = ""
 changelog = """
-- 切换至 HTTPS, 可以在一定程度上提升安全性
-- 切换DNS配置以实现国内外同步加速,现在在国外使用这个插件应当与原版差不多快
-- 修正查询单个物品不享受加速的问题
+- 合并上游错误修正
 """
