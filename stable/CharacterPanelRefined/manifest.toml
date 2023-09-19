@@ -1,8 +1,11 @@
 [plugin]
-repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "1513e9afb6d01c2c0d61d16bf93859abca03e0a9"
-owners = ["Kouzukii"]
+repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.git"
+commit = "3ea2c72d37e9a83de53b5ac71719730c943fa6ef"
+owners = [
+  "Kouzukii",
+  "zhouhuichen741",
+]
 project_path = "CharacterPanelRefined"
 changelog = """
-Fixed average damage and healing values broken by patch 6.4
+更新支持国服6.4
 """
