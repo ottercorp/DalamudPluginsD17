@@ -26,26 +26,26 @@ jobs:
         name: Build PR
         sha: ${{ github.event.client_payload.ref }}
         status: in_progress
-        details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
+        details_url: "https://github.com/ottercorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
 
     - name: Checkout manifests
       uses: actions/checkout@v3
       with:
-        repository: goatcorp/DalamudPluginsD17
+        repository: ottercorp/DalamudPluginsD17
         path: manifests
         ref: ${{ github.event.client_payload.ref }}
 
     - name: Checkout Plogon
       uses: actions/checkout@v3
       with:
-        repository: goatcorp/Plogon
+        repository: ottercorp/Plogon
         #ref: V1.0.6
         path: Plogon
 
     - name: Checkout Dist
       uses: actions/checkout@v3
       with:
-        repository: goatcorp/PluginDistD17
+        repository: ottercorp/PluginDistD17
         path: output
         ref: main
 
@@ -69,10 +69,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GH_BOT_PAT }}
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
         EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
-        PLOGON_SECRETS_PK: ${{ secrets.PLOGON_SECRETS_PK }}
-        PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
+        XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PR_ACTOR: ${{ github.event.client_payload.actor }}
         GITHUB_PR_NUM: ${{ github.event.client_payload.prnum }}
@@ -84,7 +82,7 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
-        --ci --mode=PullRequest
+        --ci
 
         cat $GITHUB_STEP_SUMMARY
         echo ::set-output name=summary::$(cat $GITHUB_STEP_SUMMARY)
@@ -103,6 +101,6 @@ jobs:
         token: ${{ steps.get-token.outputs.token }}
         check_id: ${{ steps.register_check.outputs.check_id }}
         conclusion: ${{ job.status }}
-        details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
+        details_url: "https://github.com/ottercorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
         output: |
           {"summary":"${{ steps.plogon_run.outputs.summary_json }}"}

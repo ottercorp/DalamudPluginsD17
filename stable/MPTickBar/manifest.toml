@@ -1,8 +1,8 @@
 [plugin]
-repository = "https://github.com/marconsou/mp-tick-bar.git"
-commit = "cc6e3bcce0ae68e13c2eecf2625f693be7c7f53f"
-owners = ["marconsou"]
+repository = "https://github.com/lzt9746/mp-tick-bar.git"
+commit = "94f0d0721097c78438d304670465bd03e97dfd5d"
+owners = ["marconsou","lzt9746"]
 project_path = "MPTickBar"
 changelog = """Version 1.4.1.5
-- .net 7 update.
+- 适配国服
 """

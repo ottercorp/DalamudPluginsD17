@@ -1,5 +1,4 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/BetterPartyFinder.git'
-commit = '2f719d2b157c04e24cbec523494f2b674033a14c'
-owners = [ 'ascclemens' ]
-changelog = 'API 7'
+repository = "https://github.com/NiGuangOwO/BetterPartyFinder.git"
+commit = "c83f158998cd97b68a0dae2c930854ed4cbbb385"
+owners = [ "ascclemens","NiGuangOwO" ]

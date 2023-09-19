@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "0c3753f6facd0e2002c0132b314084d7cf3a6ce1"
-owners = ["xorus"]
+commit = "d74af1ef52fd83886acb3d1c0f9ab0e5536e52ed"
+owners = ["xorus","wozaiha"]
 changelog = """\
-- Fix decimals not being properly hidden with the display threshold option"""
+- add zh translation support"""
