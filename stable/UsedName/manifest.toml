@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "f86f7993eddf989653798d6e3b154151c75ae23d"
+commit = "6383623042ac432270c7407d5e42dca0d370166d"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 兼容国服6.4
-- 修复错误初始化
+- 修复新用户的错误初始化问题
 """
