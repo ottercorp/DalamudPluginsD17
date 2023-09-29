@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/Lynesth/BetterTargetingSystem.git"
+repository = "https://github.com/AtmoOmen/BetterTargetingSystem.git"
 commit = "925b64b07246f08507cb32446b1f4fb43a112b0c"
 owners = ["Lynesth", "AtmoOmen"]
 project_path = "BetterTargetingSystem"
