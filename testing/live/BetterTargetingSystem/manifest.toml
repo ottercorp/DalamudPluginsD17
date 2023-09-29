@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Lynesth/BetterTargetingSystem.git"
 commit = "925b64b07246f08507cb32446b1f4fb43a112b0c"
-owners = ["Lynesth"， "AtmoOmen"]
+owners = ["Lynesth", "AtmoOmen"]
 project_path = "BetterTargetingSystem"
 changelog = "汉化 修改界面逻辑 修改目标选择逻辑"
