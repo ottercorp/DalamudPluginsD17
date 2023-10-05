@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/AtmoOmen/VFXEditor-CNTR.git"
-commit = "0d56ccad3217f7cc6c6c47cd07749f2bc6eb4766"
+repository = "github.com/AtmoOmen/VFXEditor-CN.git"
+commit = "c5f141d2eda7c74923d0884d12ef361e135243fb"
 owners = [
     "0ceal0t","AtmoOmen"
 ]
