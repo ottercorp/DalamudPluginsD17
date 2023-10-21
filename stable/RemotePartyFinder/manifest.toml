@@ -1,6 +1,6 @@
 [plugin]
-repository = 'https://github.com/LittleNightmare/remote-party-finder.git'
-commit = 'd2211cea772d5514633912697481da7fea7e7e84'
-owners = [ 'lojewalo', 'LittleNightmare' ]
+repository = 'https://git.anna.lgbt/anna/remote-party-finder.git'
+commit = 'ef22082e539705f2aac24f0035577600246bcfb7'
+owners = [ 'lojewalo' ]
 project_path = 'csharp/RemotePartyFinder'
-changelog = '修复编译失败导致无法使用的问题'
+changelog = 'API 9'

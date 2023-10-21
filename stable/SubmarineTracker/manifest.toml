@@ -1,5 +1,7 @@
 [plugin]
-repository = "https://github.com/ShadyWhite/SubmarineTracker.git"
-commit = "061fad233c64190a74e7584ecdc22cfcf9599d38"
-owners = ["Infiziert90", "ShadyWhite"]
+repository = "https://github.com/Infiziert90/SubmarineTracker.git"
+commit = "0a230683d44c0aa52a5d5c8e40378b996352b71f"
+owners = [
+    "Infiziert90",
+]
 project_path = "SubmarineTracker"

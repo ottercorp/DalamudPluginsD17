@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "711291a37ad37ff52d7a371908dfb61b4cd795e5"
+commit = "3b2dedd69559db26ebb0c378e343822a8eb94c40"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes login issue in Azure backend
+- Fixes Uberduck TTS backend following API changes
 """

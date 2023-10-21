@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "d49ba4efb0b512487089799a39eb8a74d5d46ac9"
+commit = "019ce555a157df7c493dce158a02c7ef3dea45cc"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Fix Emotes filter"
+changelog = "Remove Tippy IPC"

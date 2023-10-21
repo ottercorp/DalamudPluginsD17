@@ -1,11 +1,8 @@
 [plugin]
-repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.git"
-commit = "3ea2c72d37e9a83de53b5ac71719730c943fa6ef"
-owners = [
-  "Kouzukii",
-  "zhouhuichen741",
-]
+repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
+commit = "cee423cf63e7b637c2fc0ceb8de320140dccab62"
+owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-更新支持国服6.4
+Update for patch 6.5
 """

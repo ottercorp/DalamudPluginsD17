@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "9ba9a43fafe7c8154a3bdd62f5b1fa356b68be54"
+commit = "d1c3cf1e70a91eb7c91c88c1b46263abb3f30eaa"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-Fixed a bug wherein some of the controls for positioning the Expanded Hold bars were faulty (whoops!)
+- Small fix to ensure Expanded Hold bars behave correctly when the main menu is opened
 """

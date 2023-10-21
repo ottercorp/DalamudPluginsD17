@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/Loskh/PingPlugin.git"
-commit = "ec268f05cf8229b13df641eef49b47d8de7eb373"
+repository = "https://github.com/karashiiro/PingPlugin.git"
+commit = "8bdfd33027841934f9179a2414de94a2c21065a3"
 owners = ["karashiiro"]
 changelog = """\
-- Fix ping sometimes getting stuck at 0ms (thanks Diyagi!)
+- Updates for API 9
 """

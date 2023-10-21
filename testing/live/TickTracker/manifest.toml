@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "78d3ff8900265da7fbcb312380fb5073abb9e9bc"
+commit = "af9af50d1cc8812fb9cc5e728661996ccdf9e26c"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Fix edge case scenario where bars wouldn't update after a loading screen
+- Update for 6.5
 """
