@@ -7,7 +7,7 @@ concurrency:
 jobs:
   run-plogon:
     name: Build Plugins
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/API9'
     runs-on: ubuntu-latest
     steps:
     - name: Checkout manifests
@@ -31,7 +31,7 @@ jobs:
         path: output
         ssh-key: ${{ secrets.DIST_SSH_KEY }}
         persist-credentials: true
-        ref: main
+        ref: API9
 
     - name: Create required folders
       run: |
