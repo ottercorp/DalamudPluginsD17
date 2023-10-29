@@ -1,12 +1,13 @@
 [plugin]
-repository = "https://github.com/Infiziert90/WaymarkPresetPlugin.git"
-commit = "aaa901607099e97dc7168e3028cf7f8ca0bf58d5"
+repository = "https://github.com/cyf2023/WaymarkPresetPlugin.git"
+commit = "968f01f24f1b5c7af7bf277cc39dfa69bafbda89"
 owners = [
     "PunishedPineapple",
     "abashby",
     "Infiziert90",
+    "cyf2023"
 ]
 project_path = "WaymarkPresetPlugin"
 changelog = '''
-nofranz
+汉化。
 '''
