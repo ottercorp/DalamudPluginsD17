@@ -7,31 +7,31 @@ concurrency:
 jobs:
   run-plogon:
     name: Build Plugins
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/API9'
     runs-on: ubuntu-latest
     steps:
     - name: Checkout manifests
       uses: actions/checkout@v3
       with:
-        repository: goatcorp/DalamudPluginsD17
+        repository: ottercorp/DalamudPluginsD17
         path: manifests
         ref: ${{ github.event.pull_request.head.sha }}
 
     - name: Checkout Plogon
       uses: actions/checkout@v3
       with:
-        repository: goatcorp/Plogon
+        repository: ottercorp/Plogon
         #ref: V1.0.6
         path: Plogon
         
     - name: Checkout Dist
       uses: actions/checkout@v3
       with:
-        repository: goatcorp/PluginDistD17
+        repository: ottercorp/PluginDistD17
         path: output
         ssh-key: ${{ secrets.DIST_SSH_KEY }}
         persist-credentials: true
-        ref: main
+        ref: API9
 
     - name: Create required folders
       run: |
@@ -84,11 +84,11 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         directory: output
-        repository: goatcorp/PluginDistD17
+        repository: ottercorp/PluginDistD17
         ssh: true
         
-    - name: Signal XLWeb commit
-      run: |
-        curl --request POST \
-        --url https://kamori.goats.dev/Plogon/CommitStagedPlugins \
-        --header 'X-XL-Key: ${{ secrets.XLWEB_KEY }}'
+    # - name: Signal XLWeb commit
+    #   run: |
+    #     curl --request POST \
+    #     --url https://kamori.goats.dev/Plogon/CommitStagedPlugins \
+    #     --header 'X-XL-Key: ${{ secrets.XLWEB_KEY }}'

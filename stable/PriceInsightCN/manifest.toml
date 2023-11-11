@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/VeroFess/ffxiv-priceinsight-cn.git"
+commit = "c3ede00ce9ab6e4c2b39f7f8eaa511d2d07b93c4"
+owners = ["Kouzukii","VeroFess"]
+project_path = ""
+changelog = """
+- 合并上游错误修正
+"""
