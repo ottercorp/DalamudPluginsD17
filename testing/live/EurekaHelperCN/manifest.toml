@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/ddez180001/LogogramHelper.git"
+commit = "bea16d00e45921028e14e97c6a383830fa1603a5"
+owners = ["snooooowy", "ddez180001"]
+project_path = "EurekaHelper"
+changelog = """
+汉化
+"""
