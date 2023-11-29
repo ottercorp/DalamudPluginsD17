@@ -1,8 +1,9 @@
 [plugin]
-repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "c60242fb9a3de12a80d32533545372c8673550e0"
+repository = "https://github.com/AtmoOmen/Hunty.git"
+commit = "5d179e9101ccc47039633b8a0440244d9798585d"
 owners = [
     "Infiziert90",
+    "AtmoOmen"
 ]
 project_path = "Hunty"
 changelog = """
