@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/VeroFess/ffxiv-priceinsight-cn.git"
-commit = "c3ede00ce9ab6e4c2b39f7f8eaa511d2d07b93c4"
+commit = "83b2b4a858dd79871ec09e0d82b2901b8bb16f50"
 owners = ["Kouzukii","VeroFess"]
 project_path = ""
 changelog = """
-- 合并上游错误修正
+- 合并上游
+- 我怎么能填错Url呢，是怎么回事呢.jpg
 """
