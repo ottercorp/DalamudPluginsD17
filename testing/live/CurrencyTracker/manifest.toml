@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "7146cec2380adcf0ab79a1ea332082a96dc24770"
+commit = "fb104b2edb7234a76ba9fccd355a059ac4afbe15"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- 请查阅 GitHub 更新日志页面"
+changelog = "- 解决文件进程冲突问题"
