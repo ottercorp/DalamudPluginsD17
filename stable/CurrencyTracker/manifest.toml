@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "bf3b26032b8ddfab319c76fb1d8e50294f267c33"
+commit = "b17638f760b64474977f2acfd22a6e93f6a32598"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- 新增了对鸟包, 额外鸟包, 雇员 物品的追踪\n- 优化了数据表格 编辑 功能的逻辑\n- 修复了 货币重命名 功能失效的问题\n- 优化了 多角色数据 界面的性能\n- 新增了 备份记录 功能"
+changelog = "- 修复了部分输入框长度不足的问题\n- 修复了 自动备份 功能下的一些问题"
