@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "b17638f760b64474977f2acfd22a6e93f6a32598"
+commit = "dd604930e9d6d39b1188c467dbe2681027d9972e"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- 修复了部分输入框长度不足的问题\n- 修复了 自动备份 功能下的一些问题"
