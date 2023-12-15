@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "9680b66cd5a783d26398379c841d854019cc16c1"
-owners = ["marconsou"]
+repository = "https://github.com/AtmoOmen/deep-dungeon-tracker.git"
+commit = "671b81b0d8727a309400be45be358f3ff6708d44"
+owners = ["marconsou", "AtmoOmen"]
 project_path = "DeepDungeonTracker"
 changelog = """
 - Added [Score Window Kills] for HoH. Check General tab >>> Information section for more info.
