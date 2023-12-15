@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/casexile.git"
-commit = "73aea9c4e7f25c44f8b96cf5a6a6431f9a5386b1"
+commit = "15cd09622b48eb208aed363df417bc03bfeb0a81"
 owners = ["RyouBakura", "AtmoOmen"]
 project_path = ""
 changelog = "Initial Release"
