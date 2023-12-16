@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/Caraxi/AdventurerInNeed.git"
-commit = "a9ad1dc07504682160e5321b8bea505be2df3d22"
+repository = "https://github.com/Bluefissure/AdventurerInNeed.git"
+commit = "88665471a35c0e3d36ab998fee672e63172e6c92"
 owners = [
     "Caraxi",
 ]
