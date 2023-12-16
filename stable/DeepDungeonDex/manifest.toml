@@ -2,6 +2,6 @@
 repository = "https://github.com/AtmoOmen/DeepDungeonDex.git"
 owners = [ "wolfcomp", "AtmoOmen" ]
 project_path = "DeepDungeonDex"
-commit = "ab55787509449dec739ccba5884b5d6ae33c674f"
+commit = "5aab3ebba33129cacae01f05238e77982e576d84"
 changelog = "### 2.7.1 (2023-09-04)\n\n\n### Bug Fixes\n\n* dont open debug window on init (50b123a)"
 version = "2.7.1"
