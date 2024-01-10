@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/DecSgr01/Profiteering.git"
+commit = "4717ea2081dd1db3778a15b129d5f46102b8297f"
+owners = [
+    "DecSgr01",
+]
+project_path = "src"
+changelog = """\
+- 修复菜单弹出
