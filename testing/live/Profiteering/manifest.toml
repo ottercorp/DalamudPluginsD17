@@ -5,5 +5,4 @@ owners = [
     "DecSgr01",
 ]
 project_path = "src"
-changelog = """\
-- 修复菜单弹出
+changelog = "修复菜单弹出"
