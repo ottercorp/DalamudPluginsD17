@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
+commit = "f9d9d20892debc1e2857787e4e3816ebd2817ed7"
+owners = ["AtmoOmen"]
+project_path = "CurrencyTracker"
+changelog = """
+- Fixed a file save failure error that occurred when a specific item name contained characters that could not be used as a file name.
+"""

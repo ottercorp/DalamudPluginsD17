@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
+commit = "26253cead9bf155c33acb0f43d5ca8d60e88bd1b"
+owners = ["Glyceri"]
+	changelog = """
+    [1.4.8.2]
+    Fixed an issue where active chocobos would interfere with battle pet resolving.
+"""

@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/MapleREcall/FFXIVAetherCompass.git"
+commit = "8ec9f84112fad122cc3349fb066541d17c2c2df3"
+owners = [ "yomishino", "MapleRecall" ]
+changelog = """Patch 6.3 Update
+- 修复国服无人岛采集显示
+- New compass Eureka Elementals for detecting elementals in Eureka (by apetih)
+- Other minor update and bug fixes to Island Sanctuary Compass
+"""

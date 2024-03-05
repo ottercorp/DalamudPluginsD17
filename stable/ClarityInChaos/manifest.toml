@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/meoiswa/ClarityInChaos.git"
+commit = "589622c29cc2e0c7af9590265a224e6849a81881"
+owners = ["meoiswa"]
+project_path = "ClarityInChaos"

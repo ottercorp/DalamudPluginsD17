@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
+commit = "e6b97264a33d5ef705427cea59047bafa1bbe86b"
+owners = ["Glyceri",]
+	changelog = """
+    [1.4.8.1]
+    Fixed a chat display bug!
+"""

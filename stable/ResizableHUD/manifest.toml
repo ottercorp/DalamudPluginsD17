@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Drahsid/ResizableHUD.git"
+commit = "cec39d4644df075c5ae4e6929272f8ed53f34352"
+owners = ["Drahsid"]
+project_path = "ResizableHUD"
+changelog = """
+- Fixed issue causing addon inspector to not render
+"""

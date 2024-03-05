@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/FFXIV-Sonar/SonarDistrib.git"
+commit = "f712d54b55f891b58b04f0675098d836d28eab74"
+owners = ["rreminy"]
+project_path = "SonarPlugin"
+changelog = "Check the Sonar Support Discord for more information: https://discord.gg/K7y24Rr"
+
+[plugin.secrets]
+sonar = "-----BEGIN PGP MESSAGE-----\n\nwV4Duk48EcakjD0SAQdA/+lRoV5nefnTaUPBKGcSV1CKKhofreClqJzc23wO\nRWkwk6Tik+38CkOc1+6UL6LCj2OXForFW7P5lyRoDNCC/zLTAtjQknwJtMRl\ns50OQQQZ0pMBKath02u5+5/h9d+EEhuej/Ne22gPPfxMDPpdF1OvqDTGErhE\nd3U6IECYFQPtZDF9WrRMm8zMSHiwgHVoGn2782yNyalVljHHtREpUzynLfIg\noxLAYamEzR+TdXM8aTBD/DaXiguqiM5vN5xfvp7sWClsnXj5QKXuB/1BBX+I\nikYSD0908Y7oxqU78Oaz7ZLeHrc=\n=5iQD\n-----END PGP MESSAGE-----\n"
+plugin = "-----BEGIN PGP MESSAGE-----\n\nwV4Duk48EcakjD0SAQdALX1wpEvli1OqeR1ImdwLj1iekTF20FVCkjH1O4Up\n61swL00Lt/jBlSzCedbfCVw2lrZfcQTpdX7WGOr9260Hu2RSr6oD6MRc5L8l\nwT2uIt3L0pUBjpOXdB//os3BJyYi52nAHVjonisMBYRU6Ng3konOs6/z23n3\n1wHs0p2KHg08+9/1mmcNYwMK/3eCCfiAFGgqATcPSrZVzvAXZHHyQrffG+7h\n0Ro2OFSIDUV66gMHMlTjzu5oz++bOSMHwQCw70XTN3W6PlJJc5CGY9LNnkdr\nUwECZsljLX1y7EF8Y0xdkDCkGX3Nww==\n=X1DL\n-----END PGP MESSAGE-----\n"

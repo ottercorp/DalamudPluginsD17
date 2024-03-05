@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/xorus/EngageTimer.git"
+commit = "318c59cda44e758d58a62763be34d3cdc829ba25"
+owners = ["xorus"]
+changelog = """\
+- Add an option to draw the custom 0-5 numbers without hiding the original countdown
+- Make animation match vanilla a bit better
+"""

@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Loskh/StarlightBreaker.git"
+commit = "a6d1d8bd05c07b6e22871e353597bf491fbe4b46"
+owners = [
+    "Loskh",
+]
+project_path = "StarlightBreaker.Dalamud"
+changelog = "Update API8"

@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/marconsou/mp-tick-bar.git"
+commit = "edd38448ee3973671d6a64d557daa5ef9f03a2ec"
+owners = ["marconsou"]
+project_path = "MPTickBar"
+changelog = """
+- Hide in pvp.
+"""

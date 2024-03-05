@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/meoiswa/TiltedPlugin.git"
+commit = "d452398944b679b56e3e9a71d8b92f30011baf76"
+owners = ["meoiswa"]
+project_path = "Tilted"

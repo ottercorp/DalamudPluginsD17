@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Kurochi51/TickTracker.git"
+commit = "6840505dca2e0d29bcb76cbb5ce68eee95c65f0a"
+owners = ["Kurochi51"]
+project_path = "TickTracker"
+changelog = """
+- Fix bug where nodes were created while option is disabled
+"""
