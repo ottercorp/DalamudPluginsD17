@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "52f8723f84c710feda245b9e533807db35625e44"
-owners = [
-    "Pilzinsel64",
-]
-project_path = "PlayerTags"
-changelog = """- Minor code optimizations
-"""

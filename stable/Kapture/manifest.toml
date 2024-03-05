@@ -1,5 +1,0 @@
-[plugin]
-repository = "https://github.com/kalilistic/Kapture.git"
-owners = [ "kalilistic" ]
-project_path = "src/Kapture"
-commit = "d4f74703ff33dcade9473e23ef89967c2c2bf64d"

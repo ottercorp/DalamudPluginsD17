@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "0ddcabcf41774dc0de8737d58734fbbaaa8aef71"
-owners = ["rekyuu"]
-project_path = "StanleyParableXiv"
-changelog = """
-- Added the option to choose between MP3 and OGG assets (defaults to MP3)
-"""

@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/53m1k0l0n/QuoteOfTheLobby.git"
-commit = "af5687d225c27fc605d53539618d95ab031f1812"
-owners = ["53m1k0l0n"]
-project_path = "QuoteOfTheLobby"
-changelog = """- Update Api 9
-- 1.0.0.10"""

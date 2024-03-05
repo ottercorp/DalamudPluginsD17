@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "77c882e3260133376a2cf18334278365331ad011"
-owners = ["edg-l"]
-project_path = "PartyPlanner"
-changelog = """- Minor Internal Refactorings.
-- Auto update events when the window is opened if not updated before for 5 minutes.
-"""
