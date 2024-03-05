@@ -3,6 +3,5 @@ repository = "https://github.com/Infiziert90/Hunty.git"
 commit = "6345c6830a62470b6750842372aa1ecca223c698"
 owners = [
     "Infiziert90",
-    "AtmoOmen"
 ]
 project_path = "Hunty"

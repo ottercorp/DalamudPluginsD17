@@ -3,7 +3,6 @@ repository = "https://github.com/PunishedPineapple/Distance.git"
 commit = "6f1d0c10640d4d9760d399fe9a2a914c73f8dea1"
 owners = [
     "PunishedPineapple",
-    "MapleRecall"
 ]
 project_path = "Distance"
 changelog = '''
