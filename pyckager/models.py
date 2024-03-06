@@ -1,10 +1,10 @@
-from re import compile, IGNORECASE
+from re import compile
 from typing import Optional, Literal
 
 from pydantic import BaseModel, Extra, validator, Field
 
 
-GITHUB_USERNAME = compile(r'^[a-z\d](?:[a-z\d]|-(?=[a-z\d])){0,38}$', IGNORECASE)
+NUMBERS_ONLY = compile(r'^\d+$')
 VERSION = compile(r'^(\d+\.)+\d+$')
 
 Type = Literal['file']
@@ -45,8 +45,8 @@ class Plugin(BaseModel):
     @validator('owners')
     def validate_owners(cls, owners):
         for owner in owners:
-            if not GITHUB_USERNAME.match(owner):
-                raise ValueError(f'Value "{owner}" is not a valid github username.')
+            if NUMBERS_ONLY.match(owner):
+                raise ValueError(f'Value "{owner}" must be a github username; ids are not allowed')
         return owners
 
     @validator('version')
