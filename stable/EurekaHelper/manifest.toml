@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/snorux/EurekaHelper.git"
+repository = "https://github.com/AtmoOmen/EurekaHelper.git"
 commit = "4f101c21cb00b0e32f98915ba1cc2b547392e877"
 owners = ["snorux", "AtmoOmen"]
 project_path = "EurekaHelper"
