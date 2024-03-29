@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/EurekaHelper.git"
-commit = "53ce4dcc13d9efd04f49b85950818dfb4c2a96fb"
+commit = "97b0af33aa82308bf432010e43dee683f19b21bc"
 owners = ["snorux", "AtmoOmen"]
 project_path = "EurekaHelper"
 changelog = """
