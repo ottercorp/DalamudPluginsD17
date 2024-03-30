@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "08aa4ee40e72e422769c15f88c9a95b6cf26aee3"
-owners = ["fmauNeko"]
+repository = "https://github.com/MapleRecall/MarketBoardPlugin.git"
+commit = "94162a6c32b000fcc913a783113b53addb4c7470"
+owners = ["fmauNeko,MapleRecall"]
 project_path = "MarketBoardPlugin"
-changelog = "- Fixed the plugin \"No GST\" feature (Universalis API changes)"
+changelog = "- Fixed the plugin \"No GST\" feature (Universalis API changes)\n - Try fix CN crash"
