@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/NiGuangOwO/BetterPartyFinder.git'
-commit = '8d84b24b278ed526e1642dbcece18ec7b545a9a2'
+commit = 'ebc10ea58360cc4c8bddc7775fb6644e861400bf'
 owners = [ 'lojewalo' , 'NiGuangOwO']
-changelog = 'API 9 + .NET 8'
+changelog = '特别关心的招募出现时，添加可点击的招募链接'
