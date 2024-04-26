@@ -1,15 +1,17 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "fc138fc71e98fef65e1a9e8bd530d56e1b536258"
+commit = "a7d452683fa904f5830fed033877bfa5dfa4b33e"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Island Sanctuary fixes (Nuko)
-- Zadnor vendor fixes (Nuko)
-- Mysterious Map vendor fix (Nuko)
-- Special shop name fix (electr0sheep)
+- 修复在用非英语语言时,军票物品不出现在列表里的BUG (Nuko)
+- 修正部分NPC ID的数据 (Nuko)
+- Chat2支持 (Nuko + electr0sheep)
+- NET8 更新 (Nuko)
+- 增加 给选择的Vendor高亮 的选项 (Nuko)
+- 极大提升读取数据的速度 (Nuko)
 """
-version = "2.5.0.0"
+version = "2.6.0.0"
