@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/NiGuangOwO/BetterPartyFinder.git'
-commit = 'ebc10ea58360cc4c8bddc7775fb6644e861400bf'
+commit = '4a77e2f768b33418a6d534e2481fabaeddaa885b'
 owners = [ 'lojewalo' , 'NiGuangOwO']
 changelog = '特别关心的招募出现时，添加可点击的招募链接'
