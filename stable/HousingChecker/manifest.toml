@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/HousingChecker.git"
-commit = "3c9ffef269eb108660a77989d5ec319b8b79c76a"
+commit = "89e92f6e61315f9d6efbbba890f16be3cfaa8e1c"
 owners = [
     "AtmoOmen",
 ]
