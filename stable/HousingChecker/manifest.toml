@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/AtmoOmen/HousingChecker.git"
+commit = "3c9ffef269eb108660a77989d5ec319b8b79c76a"
+owners = [
+    "AtmoOmen",
+]
+project_path = "HousingChecker"
