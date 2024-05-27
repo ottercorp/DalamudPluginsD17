@@ -7,11 +7,13 @@ owners = [
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- 修复在用非英语语言时,军票物品不出现在列表里的BUG (Nuko)
-- 修正部分NPC ID的数据 (Nuko)
-- Chat2支持 (Nuko + electr0sheep)
-- NET8 更新 (Nuko)
-- 增加 给选择的Vendor高亮 的选项 (Nuko)
-- 极大提升读取数据的速度 (Nuko)
+- .NET8 update (Nuko)
+- Chat2 support (Nuko + electr0sheep)
+- Correct some NPC ids (Nuko)
+- Significant improvement to loading speed (Nuko)
+- Add an option to be able to highlight selected vendor (Nuko)
+- Make it able to copy vendor info (Nuko)
+- Users can now resize the vendor window (Nuko)
+- Fix GC items don't show up in vendor list on non-English client (Nuko)
 """
 version = "2.6.0.0"

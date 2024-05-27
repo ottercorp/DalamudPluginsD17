@@ -1,8 +1,12 @@
 [plugin]
-repository = "https://github.com/AtmoOmen/PvpStats.git"
-commit = "c112c51446ec3664f166f12c1acdef7b781b2000"
-owners = ["wrath16", "AtmoOmen"]
+repository = "https://github.com/wrath16/PvpStats.git"
+commit = "c3abdb22823584ebba61bfd4e66f2b8951186753"
+owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-- Fixes game crash on occluded window.
+* Added Summary and profile tabs to Frontline tracker.
+* Added team contribution stats to Frontline match details windows.
+* Fixed Frontline CSV buttons.
+* Added color config options for Frontline teams.
+* Fixed Frontline retentive filters loading from the Crystalline Conflict configuration.
 """
