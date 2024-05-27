@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/wozaiha/GatherBuddy.git"
-commit = "835b2c681ae6cbd86388bda2a645fc098a7d5037"
+repository = "https://github.com/Ottermandias/GatherBuddy.git"
+commit = "e8e95ed7982572e489745236fae93e60bb7f2674"
 owners = [
     "Ottermandias",
 ]

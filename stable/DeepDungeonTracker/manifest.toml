@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
+commit = "a725d21fdc4a5cb81cd92f6510cb015b2b106027"
+owners = ["marconsou"]
+project_path = "DeepDungeonTracker"
+changelog = """
+- .NET 8.0.
+"""
