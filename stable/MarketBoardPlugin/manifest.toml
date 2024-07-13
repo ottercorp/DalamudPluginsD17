@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/MapleRecall/MarketBoardPlugin.git"
+repository = "https://github.com/ottercorp/MarketBoardPlugin.git"
 commit = "43a9bafe9ebdb598499bf32db258ef1469e974cd"
 owners = ["fmauNeko,MapleRecall"]
 project_path = "MarketBoardPlugin"
