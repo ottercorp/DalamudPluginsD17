@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Menci/IINACT"
+commit = "0722a9e3157fcde0c430f08e30f6d1b9356c6d97"
+owners = ["marzent", "Menci"]
+project_path = "IINACT"
+changelog = "Support FFXIV CN 7.0"
