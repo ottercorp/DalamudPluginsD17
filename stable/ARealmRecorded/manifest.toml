@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/wozaiha/ARealmRecorded.git"
-commit = "572f70d4b8f5595f65f78a88191479c69c7bd594"
+commit = "f5a16b025a5e51865e67dbc7a8f958e77d9b54f5"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Fixed for Dawntrail
-- Added waymark toggle persistence'''
+-修复长回放炸游戏问题
+-新增可选择过滤需要保存录像的副本类型'''
