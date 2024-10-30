@@ -1,10 +1,12 @@
 [plugin]
-repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "8590a50e3a1bf5c3ee0afcbdd88d8aba32dce70a"
+repository = "https://github.com/ottercorp/Distance.git"
+commit = "70347cc0ed0cd75802f3558d1c237d4d0790c13b"
 owners = [
     "PunishedPineapple",
+    "MapleRecall"
 ]
 project_path = "Distance"
 changelog = '''
-- Displays distance units as meters now instead of yalms in the Japanese-language client in order to match tooltips.
+- 脸开Boss距离适配国服
+- 同步最新数据
 '''
