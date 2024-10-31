@@ -11,7 +11,7 @@ permissions:
 jobs:
   run-plogon:
     name: Build Plugins
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
     - uses: navikt/github-app-token-generator@v1
       id: get-token

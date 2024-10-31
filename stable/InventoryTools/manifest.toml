@@ -1,15 +1,15 @@
 [plugin]
 repository = "https://github.com/decorwdyun/InventoryTools.git"
-commit = "1c1ba3d5e83df643ece5687e8cc7fece2533b634"
+commit = "d0455b220cd44c7c622470a24a6f74ce48790073"
 owners = [
     "Critical-Impact",
     "decorwdyun"
 ]
 project_path = "InventoryTools"
-version = "1.7.0.21"
+version = "1.7.0.22"
 changelog = """\
 ### Fixed
 
-- 国服适配
+- 国服雇员适配，Tooltip 汉化
 
 """

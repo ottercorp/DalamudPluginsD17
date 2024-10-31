@@ -8,7 +8,7 @@ jobs:
   run-plogon:
     name: Build Plugins
     if: github.ref == 'refs/heads/main'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
     - name: Checkout manifests
       uses: actions/checkout@v3
