@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "f1b574c31975fd5b172f8fda95d1932e14a23d38"
+commit = "87a35a1bcbaffbd225cc1d70deaa208a8e9acc0b"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 可能损坏已有数据，请注意备份
-- 有限支持7.0
-- 命令`/pname update`暂时不可用
-- 修复新人频道错误识别的问题
+- 增加左键点击复制文本的功能
+- 增加CID显示（默认关闭，在设置里开启）
 """
