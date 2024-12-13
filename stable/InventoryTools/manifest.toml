@@ -6,7 +6,7 @@ owners = [
     "decorwdyun"
 ]
 project_path = "InventoryTools"
-version = "1.7.0.22"
+version = "1.7.0.23"
 changelog = """\
 ### Fixed
 - 国服 hotfix，修复了最近出现的报错问题
