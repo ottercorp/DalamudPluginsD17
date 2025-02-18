@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "104592b2aefbb2b92054918486cde253d9b9b1a7"
-owners = [
-    "rosella500"
-]
-project_path = "Beachcomber"
-changelog = "Fix overzealous validation"

@@ -1,7 +1,6 @@
 [plugin]
 repository = "https://github.com/wozaiha/ARealmRecorded.git"
-commit = "572f70d4b8f5595f65f78a88191479c69c7bd594"
+commit = "b260e582e9090b8d5771af0edf3e445bafe4e156"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Fixed for Dawntrail
-- Added waymark toggle persistence'''
+- Added support for Chaotic raids (Aireil tested and approved)'''

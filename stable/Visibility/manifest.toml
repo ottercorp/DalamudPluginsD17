@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/wozaiha/VisibilityPlugin.git"
+repository = "https://github.com/ottercorp/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "539cc36fd55443a754a0e1b451e194a368fc1277"
-changelog = "- Added a feature to show target of target when hidden by other settings"
+commit = "d9897471bb9e45f1312ebd68288a887ce7cea4f8"
+changelog = "- Updated plugin for 7.1"

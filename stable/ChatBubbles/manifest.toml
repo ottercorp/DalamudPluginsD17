@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "fe803677085f3a9733177b7c842874cacb5118b1"
-owners = ["Haplo064", "MKhayle"]
-project_path = "ChatBubbles"
-changelog = """### 2.1.7.1
-- Confirmed fixing Atticus the Primogenitor (yeepeeeeee)
-- What is that smell?"""

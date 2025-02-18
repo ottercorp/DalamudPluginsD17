@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "8e59aad278d37ae661367624f8da212147dbd750"
+commit = "462d11511c62265f88670db25152befbe20fa5c9"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Fixed currency parsing for vendors
-- Modified parsing mechanic for better performance
+changelog = """- Fixed issues with map button link
+- Fixed map territory data loading
+- Fixed gathering location parsing
  """

@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/Bluefissure/SubmarineTracker.git"
-commit = "bc1f2b0259465803a4637b949dc8e51bbc4d9e27"
-owners = [
-    "Infiziert90",
-]
-project_path = "SubmarineTracker"

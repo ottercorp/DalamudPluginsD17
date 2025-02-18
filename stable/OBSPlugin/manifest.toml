@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "095c737ce3106d1dff27ce734fb67b7cc9c3b7ed"
+commit = "ac80c1a2e4e13feadcdf02ac738f3208642c382a"
 owners = ["Bluefissure"]
-changelog = """- ffxiv 7.0 support"""
+changelog = """- fix: partylist name"""

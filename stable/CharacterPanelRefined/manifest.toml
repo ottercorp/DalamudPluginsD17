@@ -1,11 +1,8 @@
 [plugin]
-repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.git"
-commit = "f8744e2a692771f11dd3b222c26fa4dac2a1fbb2"
-owners = [
-          "Kouzukii",
-          "zhouhuichen741"
-         ]
+repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
+commit = "5cf304f1247b7f8cbe900d35f4cd1d9852467a7b"
+owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- 本地化
+- Fix calculation of expected damage and healing values
 """
