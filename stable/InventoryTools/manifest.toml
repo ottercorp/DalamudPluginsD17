@@ -1,11 +1,14 @@
 [plugin]
-repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "021f438cc8c1ee7c6a46603bcf79d125a8a96fdd"
+repository = "https://github.com/decorwdyun/InventoryTools.git"
+commit = "24b88f2bf6d9efac704b074ec16b274d6b56573d"
 owners = [
     "Critical-Impact",
+    "decorwdyun"
 ]
 project_path = "InventoryTools"
-version = "1.11.0.12"
+version = "1.11.0.13"
 changelog = """\
-- Fixed hang on boot
+### Fixed
+- 国服 7.1 支持
+- 国服雇员背包数据修复
 """
