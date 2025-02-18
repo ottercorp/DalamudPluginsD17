@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/Rietty/AutoMammet.git"
-commit = "74402b9919f617d00c8c9ca4b3252d0466a408ac"
-owners = ["Rietty"]
-project_path = "/AutoMammet"
-changelog = "Fix user reported offset error that occured in sections I do not have access to in island data yet."
