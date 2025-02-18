@@ -1,14 +1,11 @@
 [plugin]
-repository = "https://github.com/decorwdyun/InventoryTools.git"
-commit = "2746fac87b4b45fb4c47a1e12d3ef6b21a93e959"
+repository = "https://github.com/Critical-Impact/InventoryTools.git"
+commit = "021f438cc8c1ee7c6a46603bcf79d125a8a96fdd"
 owners = [
     "Critical-Impact",
-    "decorwdyun"
 ]
 project_path = "InventoryTools"
-version = "1.7.0.23"
+version = "1.11.0.12"
 changelog = """\
-### Fixed
-- 国服 hotfix，修复了最近出现的报错问题
-
+- Fixed hang on boot
 """

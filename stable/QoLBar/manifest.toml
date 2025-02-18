@@ -1,7 +1,6 @@
 [plugin]
-repository = "https://github.com/wozaiha/QoLBar.git"
-commit = "f37b82e5a29f7dc00207a805b42c35c995a53842"
+repository = "https://github.com/UnknownX7/QoLBar.git"
+commit = "3b72e2ea37030aa3992a9b0b03ce15735af54505"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Updated for Dawntrail
-- Fixed missing game symbols when the font size is not default'''
+- Fixed ImGui asserts'''

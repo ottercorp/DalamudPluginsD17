@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/InventoryTools.git"
+commit = "94ca133440b5d23b84c678c8d301e8d637791c7a"
+owners = [
+    "Critical-Impact",
+]
+project_path = "InventoryTools"
+version = "1.7.0.3"
+changelog = """\
+**Allagan Tools 1.7.0.3**
+- This will be the last testing release before this gets released fully
+
+**Fixes:**
+- The sort parser would sometimes not fire on client login/logout causing no inventory updates to occur
+"""

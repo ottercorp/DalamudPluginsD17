@@ -1,10 +1,7 @@
 [plugin]
-repository = "https://github.com/Bluefissure/PingPlugin.git"
-commit = "935b9b0583063f28a075237bbff12a1e17b55667"
+repository = "https://github.com/karashiiro/PingPlugin.git"
+commit = "9131fa97f7945537161f19caf013e0703755e5dc"
 owners = ["karashiiro"]
 changelog = """\
-- Updated for API X
-- Updated font handling
-- Updated lobby server addresses
-- Added fallback for Shadow ping detection
+- Updated for 7.1 (thanks Fronti!)
 """

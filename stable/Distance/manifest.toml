@@ -1,12 +1,11 @@
 [plugin]
-repository = "https://github.com/ottercorp/Distance.git"
-commit = "70347cc0ed0cd75802f3558d1c237d4d0790c13b"
+repository = "https://github.com/PunishedPineapple/Distance.git"
+commit = "5ca50d877da2532e81f82c15e6ef651f28478247"
 owners = [
     "PunishedPineapple",
-    "MapleRecall"
 ]
 project_path = "Distance"
 changelog = '''
-- 脸开Boss距离适配国服
-- 同步最新数据
+- Updated for Dalamud API 11.  Thank you damolitionn.
+- Minor code cleanup.
 '''

@@ -4,5 +4,5 @@ commit = "7041de7a3adb4ced2b0c2c6db2a9f4d996ddacee"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-nofranz
+Fixed the issue of failed multi-chara functionality
 """

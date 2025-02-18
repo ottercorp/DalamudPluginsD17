@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "9fb2cde217a6ff3900010b4c7c928c6f31a96cf3"
+commit = "6c6f6a22716c4f21bacc21ddbc38e92e153d88c0"
 owners = ["Glyceri"]
 	changelog = """
-    [2.2.0.4]
-    Empty data will get send over IPC a lot less. (This shouldn't happen actually, I just haven't found the underlying issue yet.)
-    Made the rename window's minimum width slightly smaller so people won't hamstring themselves into not seeing the input field.
-    Added a couple tags so people will find the plugin via very specific search querries easier.
+    [2.3.0.9]
+    Fixes profile pictures not downloading for people with ' and - in their name.
 """
