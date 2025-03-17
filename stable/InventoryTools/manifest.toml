@@ -1,14 +1,9 @@
 [plugin]
 repository = "https://github.com/decorwdyun/InventoryTools.git"
-commit = "24b88f2bf6d9efac704b074ec16b274d6b56573d"
+commit = "6eb5380a5f953f07a615a4adedc5414f11ba2766"
 owners = [
     "Critical-Impact",
     "decorwdyun"
 ]
 project_path = "InventoryTools"
-version = "1.11.0.13"
-changelog = """\
-### Fixed
-- 国服 7.1 支持
-- 国服雇员背包数据修复
-"""
+version = "1.11.1.4"
