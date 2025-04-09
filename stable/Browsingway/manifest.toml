@@ -1,9 +1,10 @@
 [plugin]
-repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "fde17ad94892719fbf241acfe710d95aef844e6a"
-owners = ["Styr1x"]
+repository = "https://github.com/MeowZWR/Browsingway.git"
+commit = "c2c78a5eb7a5b1dce9120305b569b8fb5daa5ce1"
+owners = ["Styr1x", "MeowZWR"]
 project_path = "Browsingway"
 changelog = """\
-- Bump Chromium to 130.0.6723.70
-- Api 11 support
+- 找runtime
+- 汉化
+- 鼠标悬停显示
 """
