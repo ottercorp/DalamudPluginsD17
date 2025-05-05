@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/decorwdyun/Accountant.git"
-commit = "ebfa6741180d3c33bce39fc0f2068fd596855ea5"
+commit = "564f23be6f1fae2ead2908af85dbd5e2e0c28bc8"
 owners = [
     "Ottermandias",
     "decorwdyun",
@@ -8,5 +8,5 @@ owners = [
 project_path = "Accountant"
 changelog = """\
 ### Fixed
-- 国服支持 & 部分汉化 & bug修复
+- 补充遗漏的苗圃信息计时器
 """
