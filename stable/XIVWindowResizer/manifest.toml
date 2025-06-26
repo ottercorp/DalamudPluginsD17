@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/4679/XIVWindowResizer.git"
-commit = "bce2015a7a0c538ad4812876d502461662ba721c"
+commit = "b970c164a417b9f9ca6564a91a95e06f80263aac"
 owners = ["AlexCSDev", "4679"]
 project_path = "XIVWindowResizer"
 changelog = "CN 7.2"
