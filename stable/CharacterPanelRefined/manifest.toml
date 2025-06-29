@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.git"
-commit = "66db9f3ed1e5f2d92d4067607e1142894e76e04c"
+commit = "7882563d3edeaada6506c006e24eb85e0e008f07"
 owners = [
           "Kouzukii",
           "zhouhuichen741"
           ]
 project_path = "CharacterPanelRefined"
 changelog = """
-- 7.2适配和本地化
+- 7.2适配和本地化,修复黑魔炽炎咏唱时间显示错误
 """
