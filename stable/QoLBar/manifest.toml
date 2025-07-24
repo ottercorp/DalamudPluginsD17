@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Ookura-Risona/QoLBar.git"
-commit = "fae7a7e2db7fde5df71e2133345be07c4ee425a1"
+commit = "3cabe7280dc07b09a58c394cd27ad0cdc0c4b993"
 owners = [
     "UnknownX7",
     "Ookura-Risona" 
