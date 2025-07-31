@@ -1,6 +1,7 @@
 [plugin]
-repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "8c35009c67c6366080d96bad5d46aeb30d474133"
-owners = [ "UnknownX7" ]
-changelog = '''
-- Fixed for 7.2'''
+repository = "https://github.com/Ookura-Risona/QoLBar.git"
+commit = "3cabe7280dc07b09a58c394cd27ad0cdc0c4b993"
+owners = [
+    "UnknownX7",
+    "Ookura-Risona" 
+]
