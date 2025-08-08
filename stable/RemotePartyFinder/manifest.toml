@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/LittleNightmare/remote-party-finder.git'
-commit = 'fd6766fa0a9cc11e89973d9289db3a825a9b9084'
+commit = 'ebb667e1b3cf939e7ad993fe3b088926f686315a'
 owners = [ 'LittleNightmare' ]
 project_path = 'csharp/RemotePartyFinder'
-changelog = 'Added a new additional backend and user configuration window'
+changelog = 'update for api 12'
