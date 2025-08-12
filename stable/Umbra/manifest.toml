@@ -1,15 +1,5 @@
 [plugin]
 repository = "https://github.com/MeowZWR/umbra.git"
-commit = "5769bb880e8c315bf5e5cf5518bdd11331822afc"
+commit = "905a14cfdaee7f770a9d383b516ba231fe1b233d"
 owners = ["haroldiedema", "MeowZWR"]
 project_path = "Umbra"
-changelog = """
-# Umbra 2.3.15
-
-## Fixes & Improvements
-
-- Fixed a crash when restarting the game while having the Compass widget enabled.
-
-Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
-Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
-"""
