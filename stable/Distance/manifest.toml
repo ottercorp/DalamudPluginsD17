@@ -1,8 +1,9 @@
 [plugin]
-repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "aa7027c352337b2bfec126c3c5591b661ad58c6a"
+repository = "https://github.com/ottercorp/Distance.git"
+commit = "7a9882d931c1becbbedbbb7785f7b4748eaf2227"
 owners = [
     "PunishedPineapple",
+    "MapleRecall"
 ]
 project_path = "Distance"
 changelog = '''
