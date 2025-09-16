@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Loskh/StarlightBreaker.git"
-commit = "7173f925b37c20fcdb5f395ce74e70b924bb460d"
+commit = "14b4e4b74ecefbfa476c6d1068dc498b8d782e36"
 owners = [
     "Loskh",
 ]
 project_path = "StarlightBreaker.Dalamud"
-changelog = "Update API XII"
+changelog = "Update API XIII"
