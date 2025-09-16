@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MeowZWR/umbra.git"
-commit = "905a14cfdaee7f770a9d383b516ba231fe1b233d"
+commit = "e3e3302ba351e8a8ee83459daba9f5c05c4775b0"
 owners = ["haroldiedema", "MeowZWR"]
 project_path = "Umbra"

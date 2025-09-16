@@ -1,9 +1,5 @@
 [plugin]
 repository = "https://github.com/MeowZWR/Browsingway.git"
-commit = "b3fb70e3947126b1c65e83c4b290b15f2ac48cec"
+commit = "a792ca540cf2aa71e55942d3a4f8074facef133b"
 owners = ["Styr1x", "MeowZWR"]
 project_path = "Browsingway"
-changelog = """\
-- Bump Chromium to 134.0.6998.178
-- (this fixes CVE-2025-2783)
-"""
