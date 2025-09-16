@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/decorwdyun/Accountant.git"
-commit = "0ba668c0020e94e3c8247e6abe6e8582168e99ee"
+commit = "8526df49dd53d04c03dd9b58489f035f16312144"
 owners = [
     "Ottermandias",
     "decorwdyun"
