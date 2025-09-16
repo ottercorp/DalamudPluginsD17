@@ -1,9 +1,8 @@
 [plugin]
-repository = "https://github.com/ottercorp/MarketBoardPlugin.git"
-commit = "672ec555402bf3eeb4bca5558269e73d4ac2e91d"
-owners = ["fmauNeko", "Yarukon"]
+repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
+commit = "6ee22ef827f88e08ba03cf4434dd79ade54dcdb4"
+owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- 增加针对国服的跨数据中心和服务器支持\
-- 汉化\
+- Patch 7.3 / API 13 compatibility\
 """
