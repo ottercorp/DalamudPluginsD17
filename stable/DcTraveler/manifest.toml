@@ -5,13 +5,12 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/Loskh/DcTraveler.git"
 # The commit to check out and build from the repository.
-commit = "934afd4b2b5f925b4c391e84683836d1b4941e95"
+commit = "919bbf3333203505df99414bc5c301e44377c39a"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Loskh"
 ]
 changelog = '''
-- 使用游戏自带的UI作为等待窗口
-- 排队完成后播放音效和振动手柄(需要拥有且连接了手柄并开启手柄的振动功能)'''
+- 适配API13'''
 
 
