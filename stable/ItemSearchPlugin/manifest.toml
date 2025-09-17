@@ -1,11 +1,10 @@
 [plugin]
-repository = "https://github.com/Caraxi/ItemSearchPlugin.git"
-commit = "ab73b302d9789e07438211980026e3eeca1d1610"
+repository = "https://github.com/yimo0908/ItemSearchPlugin.git"
+commit = "2d1f7633cffd37a69b72df9717d4e6bb74fe2564"
 owners = [
-    "Caraxi", "MKhayle",
+    "Caraxi", "MKhayle", "yimo"
 ]
 project_path = "ItemSearchPlugin"
 changelog = """
-- API 13 update
-- 7.3 data update
+- 汉化
 """
