@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/yimo0908/Mappy.git"
 commit = "932534d8308793d281b341c72b9a0054ebd49269"
-owners = ["MidoriKami", "kotenuki" , "yimo"]
+owners = ["MidoriKami", "kotenuki"]
 project_path = "Mappy"
 changelog = "汉化"
+
 
