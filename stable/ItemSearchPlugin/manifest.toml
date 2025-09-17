@@ -2,7 +2,7 @@
 repository = "https://github.com/yimo0908/ItemSearchPlugin.git"
 commit = "2d1f7633cffd37a69b72df9717d4e6bb74fe2564"
 owners = [
-    "Caraxi", "MKhayle", "yimo"
+    "Caraxi", "MKhayle"
 ]
 project_path = "ItemSearchPlugin"
 changelog = """
