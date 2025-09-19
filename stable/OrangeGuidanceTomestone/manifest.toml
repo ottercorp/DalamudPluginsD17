@@ -1,8 +1,8 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '8e64418d4ac1dcccff796bae77641035519422f7'
-owners = [ 'anna-is-cute' ]
+repository = 'https://github.com/MapleRecall/OrangeGuidanceTomestone.git'
+commit = 'b2023f9fc1797e3465b0410f4044fe7e6b2bcdb8'
+owners = [ 'anna-is-cute', 'MapleRecall' ]
 project_path = 'client'
 changelog = """\
-- API 13
+- 简单汉化一下？
 """
