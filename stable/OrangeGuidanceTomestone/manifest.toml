@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/MapleRecall/OrangeGuidanceTomestone.git'
-commit = 'b2023f9fc1797e3465b0410f4044fe7e6b2bcdb8'
+commit = '9707cdc83fd7a1b050c918975f2af4351a2f5fa5'
 owners = [ 'anna-is-cute', 'MapleRecall' ]
 project_path = 'client'
 changelog = """\
