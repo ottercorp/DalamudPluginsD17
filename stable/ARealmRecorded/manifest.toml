@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wozaiha/ARealmRecorded.git"
-commit = "75f2bf49b47bd4f4d77a18176479d500c39f393c"
+commit = "9714d80ec0068296c03b80a10a765f5f0117437d"
 owners = [ "UnknownX7" ]
 changelog = '''
 - Fixed for partyUI'''
