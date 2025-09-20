@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/ottercorp/Distance.git"
-commit = "85a954373d6a4cbb2a65bf892ac19cea050c7927"
+commit = "7a9882d931c1becbbedbbb7785f7b4748eaf2227"
 owners = [
     "PunishedPineapple",
     "MapleRecall"
 ]
 project_path = "Distance"
 changelog = '''
-- 中文支持
-- 修复国服开怪距离
+- Updated for Dalamud API 13.  Thank you damolitionn!
+- Miscellaneous code cleanup.
 '''

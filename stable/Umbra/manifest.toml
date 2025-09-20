@@ -1,14 +1,20 @@
 [plugin]
 repository = "https://github.com/MeowZWR/umbra.git"
-commit = "5769bb880e8c315bf5e5cf5518bdd11331822afc"
+commit = "e3e3302ba351e8a8ee83459daba9f5c05c4775b0"
 owners = ["haroldiedema", "MeowZWR"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.15
+# Umbra 3.1.7
 
 ## Fixes & Improvements
 
-- Fixed a crash when restarting the game while having the Compass widget enabled.
+- Added two new customizable theme colors for tooltips. (By [alexpado](https://github.com/alexpado)).
+- Fixed an issue where hunt world markers were not always being visible when there are multiples of the same type on the map. (By [alexpado](https://github.com/alexpado)).
+- Fixed various UI issues related to scrollbar colors not respecting the theme. (By [alexpado](https://github.com/alexpado)).
+- Fixed an issue in data migration on profiles with no widgets. (By [alexpado](https://github.com/alexpado)).
+- Fixed an issue in the Volume Widget where changes made in the UI settings were not persisted in presets. (By [alexpado](https://github.com/alexpado)).
+
+---
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

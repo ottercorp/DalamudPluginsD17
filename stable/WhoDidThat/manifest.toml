@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "ba4381aa77bf457275f96062afe569f3cae7b83e"
+commit = "4e529383a37ba3f7eed9259f3ef9423c2238d2f7"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
-changelog = "Resolved Rescue Not being tracked (Thanks SE)"
+changelog = "Updated to 7.3"
