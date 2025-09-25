@@ -44,9 +44,9 @@ class Plugin(BaseModel):
 
     @validator('owners')
     def validate_owners(cls, owners):
-        for owner in owners:
-            if NUMBERS_ONLY.match(owner):
-                raise ValueError(f'Value "{owner}" must be a github username; ids are not allowed')
+        # for owner in owners:
+        #     if NUMBERS_ONLY.match(owner):
+        #         raise ValueError(f'Value "{owner}" must be a github username; ids are not allowed')
         return owners
 
     @validator('version')

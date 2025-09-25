@@ -11,7 +11,7 @@ permissions:
 jobs:
   run-plogon:
     name: Build Plugins
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
     - uses: navikt/github-app-token-generator@v1
       id: get-token
@@ -26,7 +26,7 @@ jobs:
         name: Build PR
         sha: ${{ github.event.client_payload.ref }}
         status: in_progress
-        details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
+        details_url: "https://github.com/ottercorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
 
     - name: Setup Difftastic
       run: |
@@ -47,28 +47,27 @@ jobs:
     - name: Checkout manifests from incoming PR
       uses: actions/checkout@v4
       with:
-        repository: goatcorp/DalamudPluginsD17
+        repository: ottercorp/DalamudPluginsD17
         path: manifests
         ref: ${{ github.event.client_payload.ref }}
 
     - name: Checkout manifests from master
       uses: actions/checkout@v4
       with:
-        repository: goatcorp/DalamudPluginsD17
+        repository: ottercorp/DalamudPluginsD17
         path: manifests-master
         ref: main
-        fetch-depth: 0
 
     - name: Checkout Plogon
       uses: actions/checkout@v4
       with:
-        repository: goatcorp/Plogon
+        repository: ottercorp/Plogon
         path: Plogon
 
     - name: Checkout Dist
       uses: actions/checkout@v4
       with:
-        repository: goatcorp/PluginDistD17
+        repository: ottercorp/PluginDistD17
         path: output
         ref: main
         sparse-checkout: |
@@ -82,7 +81,7 @@ jobs:
         mkdir work
 
     # TODO: Use future plogon config as cache key
-    - name: Cache Docker images
+    - name: Cache Docker images.
       uses: ScribeMD/docker-cache@0.5.0
       with:
         key: docker-${{ runner.os }} #-${{ hashFiles(paths) }}
@@ -101,17 +100,17 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GH_BOT_PAT }}
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
         EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
         PLOGON_SECRETS_PK: ${{ secrets.PLOGON_SECRETS_PK }}
         PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
+        XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
         PLOGON_S3_HISTORY_BUCKET: ${{ vars.PLOGON_S3_HISTORY_BUCKET }}
         PLOGON_S3_DIFFS_BUCKET: ${{ vars.PLOGON_S3_DIFFS_BUCKET }}
-        PLOGON_INTERNAL_S3_APIURL: ${{ vars.PLOGON_GLADE_APIURL }}
-        PLOGON_INTERNAL_S3_WEBURL: ${{ vars.PLOGON_GLADE_WEBURL }}
-        PLOGON_INTERNAL_S3_REGION: ${{ vars.PLOGON_GLADE_REGION }}
-        PLOGON_INTERNAL_S3_ACCESSKEY: ${{ secrets.PLOGON_GLADE_ACCESSKEY }}
-        PLOGON_INTERNAL_S3_SECRET: ${{ secrets.PLOGON_GLADE_SECRET }}
+        PLOGON_INTERNAL_S3_APIURL: ${{ vars.PLOGON_INTERNAL_S3_APIURL }}
+        PLOGON_INTERNAL_S3_WEBURL: ${{ vars.PLOGON_INTERNAL_S3_WEBURL }}
+        PLOGON_INTERNAL_S3_REGION: ${{ vars.PLOGON_INTERNAL_S3_REGION }}
+        PLOGON_INTERNAL_S3_ACCESSKEY: ${{ secrets.PLOGON_INTERNAL_S3_ACCESSKEY }}
+        PLOGON_INTERNAL_S3_SECRET: ${{ secrets.PLOGON_INTERNAL_S3_SECRET }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PR_ACTOR: ${{ github.event.client_payload.actor }}
         PLOGON_ACTOR: ${{ github.event.client_payload.actor }}
@@ -145,6 +144,6 @@ jobs:
         token: ${{ steps.get-token.outputs.token }}
         check_id: ${{ steps.register_check.outputs.check_id }}
         conclusion: ${{ job.status }}
-        details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
+        details_url: "https://github.com/ottercorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
         output: |
           {"summary":"${{ steps.plogon_run.outputs.summary_json }}"}
