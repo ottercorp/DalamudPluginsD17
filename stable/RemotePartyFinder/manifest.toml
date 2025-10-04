@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/zeroeightysix/remote-party-finder.git'
-commit = '94649e99cc0e649b9c85a17d544ebb3c1af7b2c5'
-owners = [ 'zeroeightysix' ]
+commit = 'd87199061373f21abb52fe53608e9710737b19a5'
+owners = [ 'LittleNightmare' ]
 project_path = 'csharp/RemotePartyFinder'
 changelog = 'Update for 7.3'
