@@ -5,7 +5,7 @@ jobs:
   run-plogon:
     name: Build Plugins
     if: github.ref == 'refs/heads/main'
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, ubuntu-latest]
     steps:
     - name: Signal XLWeb commit
       run: |
