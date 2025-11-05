@@ -76,9 +76,8 @@ jobs:
 
     - name: Create required folders
       run: |
-        mkdir artifacts
-        mkdir static
-        mkdir work
+        rm -rf artifacts static work
+        mkdir artifacts static work
 
     # TODO: Use future plogon config as cache key
     - name: Cache Docker images.
