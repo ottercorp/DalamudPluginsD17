@@ -44,8 +44,8 @@ jobs:
 
     - name: Create required folders
       run: |
-        mkdir artifacts
-        mkdir work
+        rm -rf artifacts work
+        mkdir artifacts work
         
 #    - name: Cache docker image
 #      uses: actions/cache@v3
