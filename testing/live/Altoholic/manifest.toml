@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "f76ae99d04c3816ee7c8bac227b7321762eb8f56"
+commit = "08a871619cb587840ed9ef46a5052b077a38c00d"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add island sanctuary rewards
+- **Progress**: Add All Saints' Wake 2025 event"
 """
