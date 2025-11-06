@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/MidoriKami/VanillaPlus.git"
-commit = "e75f73bc4f6096a7d3a6f9bbe8f0debc34ac88e4"
-owners = ["MidoriKami", "Haselnussbomber"]
+repository = "https://github.com/MapleRecall/VanillaPlus.git"
+commit = "7e8a3f591556dbbe826829b0c851668a8b9545da"
+owners = ["MidoriKami", "Haselnussbomber", "MapleRecall"]
 project_path = "VanillaPlus"
