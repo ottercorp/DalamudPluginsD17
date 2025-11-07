@@ -1,23 +1,5 @@
 [plugin]
 repository = "https://github.com/MeowZWR/umbra.git"
-commit = "e3e3302ba351e8a8ee83459daba9f5c05c4775b0"
+commit = "54bc0fd48f3703c1491c32054ef50a7570ee7844"
 owners = ["haroldiedema", "MeowZWR"]
 project_path = "Umbra"
-changelog = """
-# Umbra 3.1.9
-
-## Fixes & Improvements
-
-- Add fixed width for the Emote Chat Indicator Widget (By [alexpado](https://github.com/alexpado)).
-- Allow negative horizontal padding for all widgets (By [alexpado](https://github.com/alexpado)).
-- Add entry label to Widget Settings window for Single Server Info Bar widget (By [alexpado](https://github.com/alexpado)).
-- Dynamic Menu: Add "Move to top" and "Move to bottom" options to the context menu of items (By [alexpado](https://github.com/alexpado)).
-- Custom Deliveries: fix color usage for hearts; set hover to background instead of stroke (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Gearset Switcher: Add crafter specialist color highlight & customization (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Gearset Switcher: use input border hover instead of accent color (By [Bloodsoul](https://github.com/Bloodsoul)).
-
----
-
-Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
-Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
-"""
