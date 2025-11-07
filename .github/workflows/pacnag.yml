@@ -8,7 +8,7 @@ on:
 jobs:
   runjob:
     # if: github.repository == 'goatcorp/DalamudPluginsD17'
-    runs-on: [self-hosted, ubuntu-latest]
+    runs-on: [ubuntu-latest]
     steps:
       - uses: actions/checkout@v3
       - uses: reiichi001/PAC-Nag@266d6766e806ccd29e1f1ec2a5fbbbc030b43b8d
