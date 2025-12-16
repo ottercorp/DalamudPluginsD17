@@ -1,5 +1,0 @@
-[plugin]
-repository = "https://github.com/WorkingRobot/ItemIcons.git"
-commit = "513bd193f215f0daa75870a1a1ef37261a01241f"
-owners = [ "WorkingRobot" ]
-project_path = "ItemIcons"

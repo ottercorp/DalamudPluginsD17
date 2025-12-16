@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/img02/Fungah-Totally-Safe-Spot.git"
-commit = "fe7a4548cdd66e0a11ad4f23b3c7c7098170ed2b"
-owners = [
-    "img02",
-]
-project_path = "Fungah"
-changelog = ""

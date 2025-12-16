@@ -1,8 +1,0 @@
-[plugin]
-repository = 'https://github.com/MapleRecall/OrangeGuidanceTomestone.git'
-commit = '9707cdc83fd7a1b050c918975f2af4351a2f5fa5'
-owners = [ 'anna-is-cute', 'MapleRecall' ]
-project_path = 'client'
-changelog = """\
-- 简单汉化一下？
-"""

@@ -1,5 +1,0 @@
-[plugin]
-repository = 'https://github.com/Cytraen/SoundFilter.git'
-commit = '0dda90460dd4f1bb471610086ac58f6361cd20e5'
-owners = ['Cytraen']
-changelog = 'Update for 7.3 (thank you Franz!)'

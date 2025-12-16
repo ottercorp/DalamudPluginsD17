@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/MapleRecall/Dalamud-VFXEditor.git"
-commit = "6edd9a87c791fd400b2a0e83c5a95348235df408"
-owners = [
-    "0ceal0t",
-    "MapleRecall"
-]
-project_path = "VFXEditor"

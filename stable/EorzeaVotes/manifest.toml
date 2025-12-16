@@ -1,9 +1,0 @@
-[plugin]
-repository = 'https://git.anna.lgbt/anna/eorzea-votes.git'
-commit = '4931be6b071751f826a855245062001cc671579a'
-owners = [ 'anna-is-cute' ]
-project_path = 'client'
-changelog = """\
-- API 12
-- Weekly questions instead of daily
-"""

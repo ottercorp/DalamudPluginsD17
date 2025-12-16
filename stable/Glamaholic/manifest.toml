@@ -1,9 +1,0 @@
-[plugin]
-repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '4947c752cfbead5f6704f8ee942c223182dc01fd'
-owners = [ 'caitlyn-gg' ]
-changelog = """
-- Fixed Fitting Room -> New Plate item retrieval
-
-For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
-"""

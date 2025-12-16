@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/jkchen2/ffxiv-congratulations-plugin.git"
-commit = "5b9440705bfdd140a0dbccdcd260172ab8daae76"
-owners = ["jkchen2"]
-project_path = "Congratulations"
-changelog = """
-Fix built-in files not getting included
-"""

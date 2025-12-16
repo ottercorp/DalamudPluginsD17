@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/Infiziert90/XIVLogger.git"
-commit = "fc6a71b1a03e5eece8c0cce5bb3d747099d14bbb"
-owners = [
-  "cadaeix",
-  "Infiziert90"
-]
-project_path = "XIVLogger"

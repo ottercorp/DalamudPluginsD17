@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/mashirochan/FFXIV-GraceGawker.git"
-commit = "fa12565906faa85fb1b1550c9cfa1557b4f6a8e6"
-owners = ["mashirochan"]
-project_path = "GraceGawker"
-changelog = "Update to API13"

@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/keysmashes/MemoryMarker.git"
-commit = "28218186d2b22f62d6098683957115070e93bc15"
-owners = ["keysmashes"]
-project_path = "MemoryMarker"
-changelog = """
-Updated for patch 7.3 (API 13).
-"""

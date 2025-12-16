@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/cairthenn/Redirect.git"
-commit = "f40cbcd61b471859919d6d47f52c2c419a2f580e"
-owners = [
-    "cairthenn",
-]
-project_path = "Redirect"
-changelog = "Restore generic UI mouseover behavior"

@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/Infiziert90/MBHistory.git"
-commit = "aa69b59efdb5287252ae3081f539464ae68b1e65"
-owners = [
-    "Infiziert90",
-]
-project_path = "MBHistory"

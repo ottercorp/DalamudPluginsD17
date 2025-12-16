@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "9e3222485af8c85769741dee8d10c972c166c6b7"
-owners = ["DueDine"]
-project_path = "ContactsTracker"
-changelog = """
-[1.0.7.1]
-- Add some sanity checks to prevent out of range IDs.
-"""
