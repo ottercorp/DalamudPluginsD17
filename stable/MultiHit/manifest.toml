@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/Bluefissure/MultiHit.git"
-commit = "72d95e8f65708847a1aaa9fbef2078587c3553fb"
-owners = ["Bluefissure"]
-project_path = "MultiHit"
-changelog = """API13"""

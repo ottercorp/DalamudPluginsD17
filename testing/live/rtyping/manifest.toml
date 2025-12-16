@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/apetih/rtyping.git"
-commit = "08b61b7c9821110149cd72a45a841dc4ae1dd0c5"
-owners = ["apetih"]
-project_path = "client/rtyping"
-changelog = """
-- Fix display of invalid worlds
-"""

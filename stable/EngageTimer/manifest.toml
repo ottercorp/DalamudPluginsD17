@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/xorus/EngageTimer.git"
-commit = "d436096f679e41c0ae364062c88b41af3c3ce7af"
-owners = ["xorus"]
-changelog = """\
-- Update for API13
-"""

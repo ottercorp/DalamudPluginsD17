@@ -1,5 +1,0 @@
-[plugin]
-repository = "https://github.com/MeowZWR/xivFaderPlugin.git"
-commit = "57fd99aaea3ae692e73a45ce23e9d5904ded24c5"
-owners = ["Infiziert90", "MeowZWR"]
-project_path = "FaderPlugin"

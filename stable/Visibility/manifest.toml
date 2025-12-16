@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/ottercorp/VisibilityPlugin.git"
-owners = [ "SheepGoMeh",]
-project_path = "Visibility"
-commit = "5e8ddf1fdad1c6cbf5cf113dd6861effe08b4a7e"
-changelog = "- Updated plugin for 7.3"

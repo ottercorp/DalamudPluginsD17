@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "37f62fcd69a5823232cbffb498478fe7166931aa"
-owners = [ "Critical-Impact",]
-project_path = "InventoryTools"
-version = "1.13.1.6"
-changelog = "### Fixed\n- Fixed a broken signature, I'll see if I can make this less liable to break later"

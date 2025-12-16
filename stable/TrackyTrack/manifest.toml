@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/Infiziert90/TrackyTrack.git"
-commit = "96dc06a3dfaff2ae66ff7ff06a58a8e566a4a471"
-owners = [
-    "Infiziert90",
-]
-project_path = "TrackyTrack"

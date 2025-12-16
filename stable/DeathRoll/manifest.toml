@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "e426ada4b84815462628e620582a32c5e92fa774"
-owners = [
-    "Infiziert90",
-]
-project_path = "DeathRoll"

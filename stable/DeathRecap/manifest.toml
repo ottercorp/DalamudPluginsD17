@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "fdc149f4aa013eb1def0747a2dc9d30f7f17f326"
-owners = ["Kouzukii"]
-project_path = ""
-changelog = """
-- Fix odd skill interactions when XivAlexander is in use
-"""

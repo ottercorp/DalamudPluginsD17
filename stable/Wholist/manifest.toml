@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/Blooym/Dalamud.Wholist.git"
-commit = "f976d20c10fc7400adc0ed0d9eb550205fd525dc"
-owners = [
-    "Blooym",
-]
-project_path = "Wholist"

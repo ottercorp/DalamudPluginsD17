@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/ottercorp/MarketBoardPlugin.git"
-commit = "224526d07f9f90c612f2d875f04f21ec923f5385"
-owners = ["fmauNeko", "Yarukon"]
-project_path = "MarketBoardPlugin"
-changelog = """\
-- Patch 7.3 / API 13 compatibility\
-"""

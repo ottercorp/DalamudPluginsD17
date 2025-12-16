@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "e3a338de95aa0764d25f4aaff4a88fdc00c2fe06"
-owners = ["pinapelz"]
-project_path = "Malmstone"
-changelog = """
-- Fixes an issue where post-frontline message shows wrong match count
-"""

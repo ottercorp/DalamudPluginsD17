@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/decorwdyun/Accountant.git"
-commit = "8526df49dd53d04c03dd9b58489f035f16312144"
-owners = [
-    "Ottermandias",
-    "decorwdyun"
-]
-project_path = "Accountant"

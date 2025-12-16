@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/Arrenton/AudibleCharacterStatus.git"
-commit = "8a4b742d442705157edee7e9518066f676902045"
-owners = [
-    "Arrenton",
-]
-changelog = """
-Updated to API 13.
-"""
