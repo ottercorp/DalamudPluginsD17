@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Loskh/StarlightBreaker.git"
+commit = "3bc57fbc900240b21aacccf0a4f49d68e363e1d8"
+owners = [
+    "Loskh",
+]
+project_path = "StarlightBreaker.Dalamud"
+changelog = "重构逻辑，当存在某些无法发出的招募文本时，行为和原生游戏一致，不会出现没开插件的玩家看到空白招募的情况。" 
