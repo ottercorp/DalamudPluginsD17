@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Loskh/StarlightBreaker.git"
-commit = "3bc57fbc900240b21aacccf0a4f49d68e363e1d8"
+commit = "b2e6517f659fc4f58dbc0789438e1f4008c42b2d"
 owners = [
     "Loskh",
 ]
