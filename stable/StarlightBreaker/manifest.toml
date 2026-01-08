@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Loskh/StarlightBreaker.git"
-commit = "b2280369078075bbd077dc32cd41885229324a98"
+commit = "2d5cd9e193855f4b938b1f19655ff5e9c35e949a"
 owners = [
     "Loskh",
 ]
 project_path = "StarlightBreaker.Dalamud"
-changelog = "由于收到一些导致招募崩溃的反馈，招募反屏蔽已暂时关闭。" 
+changelog = "修复招募" 
