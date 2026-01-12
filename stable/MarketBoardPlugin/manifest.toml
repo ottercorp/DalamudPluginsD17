@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/ottercorp/MarketBoardPlugin.git"
-commit = "521620a90362c1206463411066669ce9a5f1ea08"
+commit = "5be02b8100a5089c6c75216cce8176be3501916f"
 owners = ["fmauNeko", "Yarukon"]
 project_path = "MarketBoardPlugin"
 changelog = """
-- Patch 7.4 / API 14 compatibility
-- Allow including Oceania in Cross-DC searches (added a checkbox in settings)
-- Added support for China Cross-DC
+- Fix server check
 """
