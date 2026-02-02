@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/DutyPusher/FFXIVDutyPusher.git"
-commit = "ab43c3c65874998cf222e82541ae310c42a4ee54"
+commit = "887852ef3257d0b7c10f309cd3fff33c956fbe88"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
-Update Chinese Description
+Update Chinese
 """
