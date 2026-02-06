@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "49d1352acea7e2b66f8fee34deba73c63e4d461b"
+commit = "88f997f27e48a20d358016e2bc7c00e0084df2ba"
 owners = [
     "haroldiedema",
     "alexpado",
@@ -8,22 +8,3 @@ owners = [
     "MeowZWR"
 ]
 project_path = "Umbra"
-changelog = """
-# Umbra 3.1.10
-
-## Fixes & Improvements
-
-- Tidied up some code & updated drawing library (By [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Updated Umbra for compatibility with Dalamud API 14 (By [wolfcomp](https://github.com/wolfcomp)).
-- Dynamic Menu: Hide 'Move to Top' and 'Move to Bottom' context menu entries for 'Add Item' entry (By [alexpado](https://github.com/alexpado)).
-- Some small fixes for 7.4.
-
-## Known Problems
-
-- Msq Widget: The progress bar currently only counts overall progression. This is due to invalid data being retrieved.
-
----
-
-Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
-Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
-"""
