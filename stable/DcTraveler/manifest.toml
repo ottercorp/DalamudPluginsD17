@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/Loskh/DcTraveler.git"
 # The commit to check out and build from the repository.
-commit = "1100efb1a0bcd302ce014b31afe79ba334932938"
+commit = "8c745e9186fbbb2db6e69c37d7eedfa93245985d"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Loskh"
