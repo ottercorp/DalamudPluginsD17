@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "fd2cfff55d6d0e17328063302124e8f95cf82890"
+commit = "9f7e4d794d0c83fd204f45ae6a7b5c94437c495a"
 owners = ["Styr1x", "MeowZWR"]
 project_path = "Browsingway"
 changelog = """\
