@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.git"
-commit = "a7df8f59664f81438fb82bb346eb7429925020b3"
+commit = "d52fd50276c73b456bed360ed274a8abf3b8d037"
 owners = ["Kouzukii", "zhouhuichen741"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Update to FFXIV 7.4 and Dalamud 14
+- Update to FFXIV 7.5 and Dalamud 15
 - Add CN
 """
