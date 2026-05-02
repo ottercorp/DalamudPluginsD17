@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/ottercorp/Distance.git"
+commit = "8411ea290466e27301de758a223cb67e31bb1866"
+owners = [
+    "PunishedPineapple",
+    "MapleRecall"
+]
+project_path = "Distance"
+changelog = '''
+- Updated for Dalamud API 13.  Thank you damolitionn!
+- Miscellaneous code cleanup.
+'''

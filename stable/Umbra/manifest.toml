@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/una-xiv/umbra.git"
+commit = "ea12b304d52ee900ac977275b1f50f33baab9e15"
+owners = [
+    "haroldiedema",
+    "alexpado",
+    "Bloodsoul",
+    "MeowZWR"
+]
+project_path = "Umbra"

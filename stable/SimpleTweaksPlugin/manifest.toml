@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/ottercorp/SimpleTweaksPlugin.git"
+commit = "7e9129fa76698eff1906d09afda9a031ba1ed7ac"
+owners = [
+    "Caraxi",
+]
+changelog = "CN 7.7"

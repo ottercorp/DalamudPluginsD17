@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Loskh/StarlightBreaker.git"
-commit = "7b986c943f53bbacd097895139ac77d37bcde55d"
+commit = "b01986dff9e7c268b7d3c6a3bc45787b25e79a21"
 owners = [
     "Loskh",
 ]
 project_path = "StarlightBreaker.Dalamud"
-changelog = "暂时禁用招募" 
+changelog = "修复招募" 
