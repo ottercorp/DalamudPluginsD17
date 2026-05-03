@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Loskh/StarlightBreaker.git"
-commit = "b01986dff9e7c268b7d3c6a3bc45787b25e79a21"
+commit = "af5c23d65f2b67fb21dfe296b71e29646f845dc9"
 owners = [
     "Loskh",
 ]
 project_path = "StarlightBreaker.Dalamud"
-changelog = "修复招募" 
+changelog = "API15" 
