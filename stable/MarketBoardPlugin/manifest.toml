@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/ottercorp/MarketBoardPlugin.git"
-commit = "5be02b8100a5089c6c75216cce8176be3501916f"
+commit = "3bebf870ec35c6de2d6a3bf6c660cea5fdbc3bce"
 owners = ["fmauNeko", "Yarukon"]
 project_path = "MarketBoardPlugin"
 changelog = """
-- Fix server check
+- CN 7.5
 """
