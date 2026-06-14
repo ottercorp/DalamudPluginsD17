@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Loskh/ProxyPlugin.git"
+commit = "f7a94d1444af1d84b425aea55d377ced05835595"
+owners = [
+    "Loskh",
+]
+project_path = "ProxyPlugin"
+
+
