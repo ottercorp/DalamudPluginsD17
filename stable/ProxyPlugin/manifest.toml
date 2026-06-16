@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Loskh/ProxyPlugin.git"
-commit = "eff9273c1a51d8fdec9fa7f6901ad19d480a399b"
+commit = "3da87314ebbeaa4259f7ba92756a18ad50ac282f"
 owners = [
     "Loskh",
 ]
