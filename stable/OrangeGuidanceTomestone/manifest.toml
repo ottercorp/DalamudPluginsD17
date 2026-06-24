@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://github.com/MapleRecall/OrangeGuidanceTomestone.git'
-commit = 'aad332b7f4f9f0cf6069a799f53134cef507995c'
+commit = '07b1caf2f4467f6ec8141d448e58ef6a3a5f46ed'
 owners = [ 'anna-is-cute', 'MapleRecall' ]
 project_path = 'client'
 changelog = """\
-- 简单汉化一下？
+- 适配 7.5（api15）
 """
