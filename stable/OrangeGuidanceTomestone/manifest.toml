@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://github.com/MapleRecall/OrangeGuidanceTomestone.git'
-commit = '07b1caf2f4467f6ec8141d448e58ef6a3a5f46ed'
+commit = '9ddc62140992c1790f86f169e62b52af73b6c7ad'
 owners = [ 'anna-is-cute', 'MapleRecall' ]
 project_path = 'client'
 changelog = """\
-- 适配 7.5（api15）
+- 恢复英文插件信息并更新版本号至 1.10.6.3
 """
