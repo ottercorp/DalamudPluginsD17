@@ -1,9 +1,8 @@
 [plugin]
-repository = "https://github.com/Loskh/Accountant.git"
-commit = "15d78683d4eee03aaa841d277af719a45cf7f85f"
+repository = "https://github.com/MapleRecall/Accountant.git"
+commit = "3d2eb5301b24d6135a2ded2922daa3bde6d813ed"
 owners = [
     "Ottermandias",
 ]
 project_path = "Accountant"
-
 
