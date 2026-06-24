@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MapleRecall/Accountant.git"
-commit = "3d2eb5301b24d6135a2ded2922daa3bde6d813ed"
+commit = "0e6e037e44e75b70cd246786fa345b6f63bcbbcf"
 owners = [
     "Ottermandias",
 ]
