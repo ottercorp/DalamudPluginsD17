@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/ottercorp/SimpleTweaksPlugin.git"
-commit = "99bf54dceb2369fdd241c7733c9d518d2270e25b"
+commit = "6fd408b5927c724e60eb4f31fb69da367ea47e43"
 owners = [
     "Caraxi",
 ]
-changelog = "CN 7.5 Update"
+changelog = "CN 7.5 Update (1.15.0.7)"
