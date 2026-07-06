@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/InfSein/CraftimizerCN.git"
+commit = "d8571f97f5beb88258978c497b627a3285f35adf"
+owners = [ "WorkingRobot, InfSein" ]
+project_path = "CraftimizerCN"
