@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/wynnforthework/FFXIV-JiZhang.git"
+commit = "0d39bdca20757e4859aa946de4d7afe88b6867b2"
+owners = ["wynnforthework"]
+project_path = "src/JiZhang"
+changelog = "首次测试版：自动记录随身金币收支，提供时间地点与传送路线、流水筛选、收支趋势和矩形树图、CSV 导出、按角色本地账本及备份恢复。"
