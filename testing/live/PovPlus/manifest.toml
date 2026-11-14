@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/pascalial98-hue/POVPlus.git"
+commit = "56c2080926f586b2962195d397b5c7140d9b3b07"
+owners = ["pascalial98-hue"]
+project_path = "src"
+changelog = "首次测试版：POV+ Enhanced 国服第一人称增强，提供身体显示、完整头影、软限位与探头、姿势保护、视点校准及中英界面。身体姿态关联选项默认关闭，不适合移动时使用。 / Initial CN testing release: visible body, full head shadows, soft limits and leaning, stationary-pose protection, viewpoint calibration and Chinese/English UI. Body-relative view is off by default and unsuitable while moving."
